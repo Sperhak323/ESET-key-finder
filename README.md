@@ -1,7 +1,7 @@
 # ESET-key-finder
 Project is not opensource. Still working on Readme and help function.
 
-[![Github All Releases](https://img.shields.io/github/downloads/Sperhak323/ESET-key-finder/total?logo=github/downloads/:user/:repo/total)]()
+[![Github All Releases](https://img.shields.io/github/downloads/Sperhak323/ESET-key-finder/total?logo=github)]()
 
 	
 ## Installation
