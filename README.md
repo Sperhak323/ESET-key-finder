@@ -6,7 +6,7 @@ Project is not opensource. Still working on Readme and help function.
 
 ## Download 
 
-[here](https://github.com/Sperhak323/ESET-key-finder/releases/v4.10)
+[here](https://github.com/Sperhak323/ESET-key-finder/releases/v5.3)
 
 ## Instalation
 
